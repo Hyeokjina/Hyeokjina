@@ -1,8 +1,5 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeokjina)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&stats_format=bytes)
 
 <!--
