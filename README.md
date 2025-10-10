@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=25&desc=hi%20I%27ve%20put%20my%20code%20here.&descAlign=80&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=25&desc=hi%20I%27ve%20put%20my%20code%20here.&descAlign=60&descAlignY=44)
 
 
 ## 👋 About Me
