@@ -1,7 +1,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-
+// Github Stats Card 코드
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeokjina)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Hyeokjina/Hyeokjina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
