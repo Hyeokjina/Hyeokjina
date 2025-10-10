@@ -1,5 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=25&desc=hi 
-I've put my code here&descAlign=60&descAlignY=44)
+
 
 
 ## 👋 About Me
