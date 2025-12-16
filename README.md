@@ -63,7 +63,9 @@
 <div align="center">
   <!-- 가장 많이 사용한 언어 카드 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&theme=radical&hide_border=true" height="180px"/>
-  ![](https://yusufozturk.vercel.app/api?username=Hyeokjina&hide_title=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://yusufozturk.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&langs_count=10&hide=html,python,css)
+  ![](https://github-readme-stats.vercel.app/api?username=Hyeokjina&hide_title=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&langs_count=10&hide=html,python,css)
 </div>
 
 ---
