@@ -1,47 +1,78 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin&fontAlign=70&rotate=13&fontAlignY=20&desc=Web%20Developer&descAlign=70&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hyeokjin!!&fontAlign=70&rotate=13&fontAlignY=20&desc=hi%20I%27ve%20put%20my%20code%20here.&descAlign=70&descAlignY=44)
+
 
 ## 👋 About Me
-
-한국 기반 웹 개발자입니다.  
-Spring Boot와 React를 활용한 풀스택 개발에 관심이 많고,  
-클라우드 인프라와 자동화에도 꾸준히 학습하고 있습니다.
-
----
-
-## 🛠️ Tech Stack
-
-**Backend** · Java, Spring Boot, Spring Data JPA, MyBatis  
-**Frontend** · React, JavaScript, HTML/CSS  
-**Database** · MySQL, Oracle, H2  
-**Cloud** · AWS (EC2, S3, RDS, CloudFront)  
-**Tools** · Git, IntelliJ IDEA, VS Code
+- 🇰🇷 Web Developer based in South Korea  
+- 🎓 Bachelor of **Information and Communication Engineering**  
+- 💻 Experienced in building full-stack web applications using **Spring Boot**, **React**, and **AWS**  
+- ☁️ Interested in **Cloud Infrastructure**, **Automation**, and **AI-driven Services**  
+- 💡 Passionate about solving real-world problems through scalable web architecture
 
 ---
 
-## 📂 Projects
+## 🧱 사용한 기술
 
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| **GymHub** | 헬스장 종합 관리 ERP 시스템 | Spring Boot, MyBatis, Oracle, JSP |
-| **오늘 한 줄** | 일기/저널 웹앱 | React, Spring Boot, JPA |
+### 💻 Language
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+</p>
 
-> 🔗 프로젝트 상세는 각 레포지토리에서 확인하실 수 있습니다.
+### ⚙️ Framework & Library
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/H2%20Database-003B57?style=flat-square&logo=H2&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFront-FF4F8B?style=flat-square&logo=Amazon%20CloudFront&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
+
+
+
 
 ---
 
-## 📊 GitHub Stats
+---
 
+## 📊 GitHub 통계
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&theme=radical&hide_border=true" height="160px"/>
+  <!-- 가장 많이 사용한 언어 카드 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&theme=radical&hide_border=true" height="180px"/>
 </div>
 
 ---
 
-## 📬 Contact
-
-**Email** · lsh6439ll@gmail.com  
-**Blog** · [myinfo6594.tistory.com](https://myinfo6594.tistory.com)
-
+## 🌍 나와 연결하기
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-프로필-blue?style=flat-square&logo=LinkedIn&logoColor=white)](링크드인주소)
+[![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lsh6439ll@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-블로그-orange?style=flat-square&logo=tistory&logoColor=white)](https://myinfo6594.tistory.com)
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
