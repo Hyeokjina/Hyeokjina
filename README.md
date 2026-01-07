@@ -63,6 +63,8 @@
 <div align="center">
   <!-- 가장 많이 사용한 언어 카드 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=monokai" />
 </div>
 
 ---
