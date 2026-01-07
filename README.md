@@ -62,8 +62,7 @@
 ## 📊 GitHub 통계
 <div align="center">
   <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=radical" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hyeokjina&theme=radical" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=default" />
 </div>
 
 ---
