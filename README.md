@@ -62,7 +62,7 @@
 ## 📊 GitHub 통계
 <div align="center">
   <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeokjina&layout=compact&theme=tokyonight" />
 </div>
 
 ---
