@@ -65,7 +65,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=radical" height="180px"/>
   
   <!-- 커밋 통계 -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hyeokjina&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hyeokjina&theme=radical" height="180px"/>
 </div>
 
 ---
