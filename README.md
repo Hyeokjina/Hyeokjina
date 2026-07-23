@@ -2,11 +2,11 @@
 
 
 ## 👋 About Me
-- 🇰🇷 Web Developer based in South Korea  
-- 🎓 Bachelor of **Information and Communication Engineering**  
-- 💻 Experienced in building full-stack web applications using **Spring Boot**, **React**, and **AWS**  
-- ☁️ Interested in **Cloud Infrastructure**, **Automation**, and **AI-driven Services**  
-- 💡 Passionate about solving real-world problems through scalable web architecture
+- 사용자 중심의 서비스를 개발하는 백엔드 중심 웹 개발자
+- 🎓 정보통신공학 전공
+- 💻 Spring Boot, React, AWS 기반의 풀스택 웹 애플리케이션 개발 경험
+- ☁️ 클라우드 인프라와 자동화, AI 기술을 활용한 서비스 개발에 관심
+- 💡 안정적이고 확장 가능한 시스템을 설계하며, 기술로 실제 문제를 해결하는 것을 목표로 합니다.
 
 ---
 
